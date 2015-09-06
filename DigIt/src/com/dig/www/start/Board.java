@@ -344,7 +344,6 @@ public class Board extends MPanel implements ActionListener {
 
 					b.interact();
 					character.endAction();
-					acting = false;
 				}
 			}
 
